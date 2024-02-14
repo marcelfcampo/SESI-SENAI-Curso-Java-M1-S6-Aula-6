@@ -1,0 +1,12 @@
+
+BANCO DE DADOS
+INTEGRAÇÃO: INTELLI + INSOMNIA + pgAdmin
+
+Video Semana 6
+
+>> Gravação da Aula 4
+
+Video 1:16 Video 1:26 até 2:06
+
+Commando:
+select * from product
